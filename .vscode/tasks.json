@@ -6,7 +6,7 @@
         {
             "label": "Serve",
             "type": "shell",
-            "command": "bundle exec jekyll serve --livereload --open-url",
+            "command": "bundle exec jekyll serve --open-url",
             "group": {
                 "kind": "test",
                 "isDefault": true
