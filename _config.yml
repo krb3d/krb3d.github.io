@@ -34,7 +34,8 @@ plugins:
   - jekyll-admin
 
 header_pages:
-  - resume.md
+  - about.md
+  - cv.md
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
