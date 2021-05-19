@@ -39,6 +39,8 @@ Looking for full-time job as C# / Azure developer in a company with a good IT ba
 
 Specialist degree at Automated Application Systems department from Sevastopol National Technical University in 2007, Sevastopol, Ukraine.
 
+Az-900 sertification: Microsoft Azure Fundamentals
+
 ### Professional experience
 
 #### Berlin Brands Group (multibrand ecommerce)
@@ -47,7 +49,17 @@ Specialist degree at Automated Application Systems department from Sevastopol Na
 
 2019-05 - now
 
-* A
+* Cloud-based ESB pattern design & implementation,
+* Multiple internal service APIs, cloud-based & on-premise deployed,
+  * Document Destribution Service - API on top of Azure Storage & CosmosDB with flexible documents upload & query capabilities,
+  * Lookup Service - support service for domain models conversion libraries,
+  * APIs for processing & transfer Orders from shops & external markets,
+  * SAP data exchange API
+
+* Step-by-step logging design & injection to existed APIs,
+* Prepare Azure pipelines for build & deployments,
+* Organise ARM templates for deployments,
+* Box packing helper API with Vue.js UI - parcels packing service for warehouse workers
 
 ---
 
@@ -59,7 +71,7 @@ Specialist degree at Automated Application Systems department from Sevastopol Na
 
 * Plugins adaptation for business requirements,
 * Custom Windows services & console utilities for data management,
-* Web pages for custom CRUD operations and reports, 
+* Web pages for custom CRUD operations and reports,
 * Working with Vue.js, Rewriting part of existing functionality to Promises/Async way,
 * T-SQL: data updates & analyze
 
