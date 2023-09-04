@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://krb3d.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'krb3d.dev'
 theme = "PaperMod"
