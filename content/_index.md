@@ -1,10 +1,6 @@
----
-title: Index
-description: ""
-date: 2023-09-04T10:44:32.219Z
-preview: ""
-draft: true
-tags: []
-categories: []
----
-Index page, say hello world!
++++
+title = ''
+date = 2023-09-05T12:23:23+02:00
+draft = false
++++
+Hello!
