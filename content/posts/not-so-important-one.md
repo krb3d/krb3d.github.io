@@ -1,6 +1,7 @@
-+++
-title = 'Not So Important One'
-date = 2023-09-05T12:26:04+02:00
-draft = true
-+++
-Hot so important post
+---
+title: "My First Post"
+date: 2022-11-20T09:03:20-08:00
+draft: true
+---
+
+Not so important post

@@ -1,6 +1,13 @@
-+++
-title = ''
-date = 2023-09-05T12:23:23+02:00
-draft = false
-+++
+---
+title: Home Page
+slug: index
+date: "2023-09-05"
+categories:
+- Pages
+tags:
+- Home
+draft: false
+---
+
 Hello!
+Check out this [wiki](https://github.com/adityatelange/hugo-PaperMod/wiki)
