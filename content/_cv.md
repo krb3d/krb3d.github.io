@@ -1,14 +1,18 @@
-+++
-title = 'CV'
-date = 2023-09-05T12:23:23+02:00
-draft = false
-+++
-
+---
+title: CV, or Curriculum Vitae
+slug: cv
+date: "2023-09-05"
+categories:
+- Pages
+tags:
+- Home
+draft: false
+---
 ## *Sergey  Speshylov*,  C# / Azure developer
 
 ### Contacts
 
-* Email: [rumplzol@gmail.com](mailto:rumplzol@gmail.com)
+* Email: [serhii.in.de@gmail.com](mailto:serhii.in.de@gmail.com)
 * LinkedIn: [linkedin.com/in/krb3d](https:\\linkedin.com/in/krb3d){:target="_blank"}
 * Github: [github.com/krb3d](https://github.com/krb3d){:target="_blank"}
 
