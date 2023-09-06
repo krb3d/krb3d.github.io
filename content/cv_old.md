@@ -1,8 +1,8 @@
 ---
 layout: page
 title: CV
-permalink: /cv
-published: true
+permalink: /cv_old
+published: false
 doc-date: 2021-05-18
 ---
 
