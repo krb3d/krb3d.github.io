@@ -1,0 +1,30 @@
+# Hugo generated files
+/public/
+/resources/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Hugo server files (remove these if not needed)
+/resources/_gen/
+/resources/_gen/assets/
+/resources/_gen/images/
+/resources/_gen/static/
+
+# Compiled Python files (if applicable)
+__pycache__/
+*.pyc
+
+# Editor-specific files and directories
+.idea/
+.vscode/
+
+# Node.js / npm
+node_modules/
+npm-debug.log*
+
+# Dependency directories (remove these if not using them)
+/vendor/
