@@ -2,7 +2,7 @@
 title: contact.md
 slug: contact
 date: "2023-09-07"
-draft: false
+draft: true
 ---
 
 contact.md
