@@ -10,4 +10,8 @@ draft: false
 ---
 
 Hello!
-Check out this [wiki](https://github.com/adityatelange/hugo-PaperMod/wiki)
+
+I'm Serhii, a seasoned C# developer specializing in the Azure Cloud stack.
+
+While this site is a work in progress, you can currently [explore my CV](./cv) and connect with me on [LinkedIn](https://www.linkedin.com/in/krb3d).
+Stay tuned for updates!

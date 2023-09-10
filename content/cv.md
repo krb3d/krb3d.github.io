@@ -26,13 +26,13 @@ tags:
 
 ### Profile summary
 
-9+ years of a progressive experience in the Information Technology Industry.
+I'm an experienced Software Engineer with a strong background in Backend technologies, including C#/.NET, Microsoft Azure Cloud, and SQL/NoSQL Databases, backed by over nine years in the IT and services industry. My academic focus was on Mechatronics, Robotics, and Automation Engineering.
 
-Extensive experience in Business-oriented applications development, product lifetime management, requirement gathering and analysis.
+I specialize in developing backend applications, primarily for internal use, with a core emphasis on integrating existing software to solve critical business challenges. I believe well-designed backend systems are the foundation of successful digital ventures.
 
-My main focus is on development of the backend applications, mostly for internal usage. Coupling of existing pieces of software together, with the primary target of solving business-oriented tasks.
+Beyond work, I'm passionate about staying current with technology trends and sharing knowledge with fellow enthusiasts.
 
-Looking for full-time job as C# / Azure developer in a company with a good IT background.
+Let's connect for exciting tech discussions or potential collaborations.
 
 ### My main skills
 
