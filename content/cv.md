@@ -1,35 +1,50 @@
 ---
 title: CV
 slug: cv
-date: 2023-09-05
-categories:
-  - Pages
+date: 2023-09-08
 draft: false
+description: CV of Serhii Speshylov, C# / Azure Senior Developer
+keywords:
+  - CV
+  - cv
+  - about
+  - contacts
+  - profile
+categories:
+  - Job-related
+tags:
+  - CV
 ---
 
 ## Serhii Speshylov, _C# / Azure developer_
 
 ### Contacts
 
-- Email: [serhii.in.de@gmail.com](mailto:serhii.in.de@gmail.com)
 - LinkedIn: [linkedin.com/in/krb3d](https:\linkedin.com/in/krb3d)
 - GitHub: [github.com/krb3d](https://github.com/krb3d)
+- Email: [serhii.in.de@gmail.com](mailto:serhii.in.de@gmail.com)
 
 ### Profile summary
 
-9+ years of a progressive experience in the Information Technology Industry. Extensive experience in Business-oriented applications development, product lifetime management, requirement gathering and analysis.
+I'm an experienced Software Engineer with a strong background in Backend technologies, including C#/.NET, Microsoft Azure Cloud, and SQL/NoSQL Databases, backed by over nine years in the IT and services industry. My academic focus was on Mechatronics, Robotics, and Automation Engineering.
 
-My main focus is on development of the backend applications, mostly for internal usage. Coupling of existing pieces of software together, with the primary target of solving business-oriented tasks.
+I specialize in developing backend applications, primarily for internal use, with a core emphasis on integrating existing software to solve critical business challenges. I believe well-designed backend systems are the foundation of successful digital ventures.
 
-Looking for full-time job as C# / Azure developer in a company with a good IT background.
+Beyond work, I'm passionate about staying current with technology trends and sharing knowledge with fellow enthusiasts.
 
-### Main skills
+Let's connect for exciting tech discussions or potential collaborations.
 
-- C#
-- T-SQL, table structure design
-- Basic Javascript, Vue.js framework
-- Different systems integrations via Web Services, COMConnections, REST API,
-- Work in full contact with client team, requirement gathering, preparing business-oriented solutions.
+### My main skills
+
+- C#/.NET Core
+- Cloud Design Patterns
+- ASP.NET Core apps
+- Entity Framework, SQL
+- Standalone workers, Microservices, Dockerized applications
+- Azure Functions, Service Bus, CosmosBD
+- Messaging systems, data processing flows
+- Base DevOps practicies, CI/CD, GitHub Acions / Azure DevOps
+- Basic Javascript, willingness to go deeper (TypeScript / frameworks)
 
 ### Languages
 
