@@ -2,6 +2,8 @@
 title: Home Page
 slug: index
 date: "2023-09-05"
+author: Serhii Speshylov
+description:
 categories:
 - Pages
 tags:

@@ -14,6 +14,7 @@ categories:
   - Job-related
 tags:
   - CV
+robotsNoIndex: true
 ---
 
 ## Serhii Speshylov, _C# / Azure developer_
