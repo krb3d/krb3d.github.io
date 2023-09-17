@@ -1,8 +1,8 @@
-baseURL: "http://krb3d.dev/"
+baseURL: "https://krb3d.dev/"
 title: "krb3d.dev"
 
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON # is necessary
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary

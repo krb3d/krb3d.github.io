@@ -3,15 +3,11 @@ title: CV
 date: 2023-09-08
 draft: false
 description: CV of Serhii Speshylov, C# / Azure Senior Developer
-keywords:
-  - CV
-  - about
-  - contacts
-  - profile
-categories:
-  - Job related
-tags:
-  - CV
+keywords: ["CV", "profile"]
+
+#categories: ["Job related"]
+#tags: ["CV"]
+
 robotsNoIndex: true
 ---
 

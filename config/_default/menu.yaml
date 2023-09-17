@@ -1,0 +1,22 @@
+main:
+- name: Search
+  url: search/
+  weight: 5
+
+- name: Categories
+  url: categories/
+  weight: 11
+- name: Tags
+  url: tags/
+  weight: 12
+- name: "CV"
+  url: cv/
+  pre: <i class="fa fa-id-card-o"></i>&nbsp;
+  weight: 90
+
+- name: GitHub
+  pre: <i class="fa fa-github"></i>&nbsp;
+  url: https://github.com/krb3d/
+- name: LinkedIn
+  pre: <i class="fa fa-linkedin"></i>&nbsp;
+  url: https://www.linkedin.com/in/krb3d/

@@ -1,8 +1,13 @@
 ---
 title: about.md
 slug: about
+
+aliases:
+- /contact
+
 date: "2023-09-07"
 draft: true
+
 robotsNoIndex: true
 ---
 
