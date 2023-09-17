@@ -6,12 +6,11 @@ draft: false
 description: CV of Serhii Speshylov, C# / Azure Senior Developer
 keywords:
   - CV
-  - cv
   - about
   - contacts
   - profile
 categories:
-  - Job-related
+  - Job related
 tags:
   - CV
 robotsNoIndex: true
