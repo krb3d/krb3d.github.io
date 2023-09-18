@@ -141,4 +141,11 @@ Let's connect for exciting tech discussions or potential collaborations.
 
 Specialist degree at Automated Application Systems department from Sevastopol National Technical University in 2007, Sevastopol, Ukraine.
 
-Az-900 sertification: Microsoft Azure Fundamentals
+### Courses and Certifiates
+
+|                                                    |                                                              |
+|:--------------------------------------------------:|:------------------------------------------------------------:|
+| Az-900 sertification: Microsoft Azure Fundamentals |  ![Azure Fundamentals Badge](azure_fundamentals.png)         |
+| Unity3d, Basic Kitchen Arcade Game, course by CodeMonkey    | [repo](https://github.com/null-null-eins-zwei/KitchenChaos)  |
+| The Creative Javascript Course                     | [repo](https://github.com/krb3d/developedbyed-js-basics)     |
+| The Creative HTML5 & CSS3 Course                   | [repo](https://github.com/krb3d/developedbyed-html-basics)   |
