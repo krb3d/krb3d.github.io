@@ -21,125 +21,108 @@ robotsNoIndex: true
 
 ### Profile summary
 
-I'm an experienced Software Engineer with a strong background in Backend technologies, including C#/.NET, Microsoft Azure Cloud, and SQL/NoSQL Databases, backed by over nine years in the IT and services industry. My academic focus was on Mechatronics, Robotics, and Automation Engineering.
+I'm an experienced **Software Engineer** with a **strong background** in **Backend technologies**, including **C#/.NET**, Microsoft **Azure Cloud**, and SQL/NoSQL **Databases**. Backed by over **nine years** in the **IT and services industry**. My academic focus was on Mechatronics, Robotics, and Automation Engineering.
 
-I specialize in developing backend applications, primarily for internal use, with a core emphasis on integrating existing software to solve critical business challenges. I believe well-designed backend systems are the foundation of successful digital ventures.
+I specialize in **developing backend applications** (including **design** and **deployment** phases sometimes), with a core emphasis on **integrating software** to solve **critical business challenges**. I believe **well&#8209;designed backend systems** are the foundation _of&nbsp;successful digital ventures_.
 
-Beyond work, I'm passionate about staying current with technology trends and sharing knowledge with fellow enthusiasts.
+Beyond work, I'm passionate about **staying current** with **technology trends** and **sharing knowledge** with fellow enthusiasts.
 
 Let's connect for exciting tech discussions or potential collaborations.
 
-### My main skills
+### My main skills and tech stack
 
-- C#/.NET Core
-- Cloud Design Patterns
-- ASP.NET Core apps
-- Entity Framework, SQL
-- Standalone workers, Microservices, Dockerized applications
-- Azure Functions, Service Bus, CosmosBD
+- C#/.NET Core,
+- ASP.NET Core apps,
+- Cloud Design Patterns,
+- Azure stack, _IaaS and PaaS_:
+  - Azure Functions,
+  - Service Bus
+  - CosmosBD (NoSQL),
+  - Event Grid,
+  - Azure Storage,
+- SQL: Entity Framework Core, Dapper,
+- Dockerized applications, Microservices
 - Messaging systems, data processing flows
+- Standalone workers,
 - Base DevOps practicies, CI/CD, GitHub Acions / Azure DevOps
 - Basic Javascript, willingness to go deeper (TypeScript / frameworks)
 
 ### Languages
 
-- English - intermediate,
-- Ukrainian - native speaker.
-
-### Education
-
-Specialist degree at Automated Application Systems department from Sevastopol National Technical University in 2007, Sevastopol, Ukraine.
-
-Az-900 sertification: Microsoft Azure Fundamentals
+- English - professional working proficiency,
+- Ukrainian - native speaker,
+- German - elementary proficiency,
 
 ### Professional experience
 
-#### Berlin Brands Group (multibrand ecommerce)
+#### Berlin Brands Group (Multibrand ecommerce), [berlin-brands-group.com](https://www.berlin-brands-group.com/en)
 
-> ##### Senior Backend / Azure developer
->
+##### Senior Backend / Azure developer
+
 > May 2019 - Nov. 2023
 
-- Cloud-based ESB pattern design & implementation,
-- Multiple internal service APIs, cloud-based & on-premise deployed,
-
-  - Document Destribution Service - API on top of Azure Storage & CosmosDB with flexible documents upload & query capabilities,
+- Adjust services Performance and Design for High Load events like Black Friday,
+- Cloud-based ESB pattern design and implementation,
+- Design and Implement multiple internal services and APIs, cloud-based and on-premise deployed,
+  - Document Distribution Service - API on top of Azure Storage and CosmosDB with flexible documents upload and query capabilities,
   - Lookup Service - support service for domain models conversion libraries,
-  - APIs for processing & transfer Orders from shops & external markets,
-  - SAP data exchange API
-
-- Step-by-step logging design & injection to existed APIs,
-- Prepare Azure pipelines for build & deployments,
-- Organise ARM templates for deployments,
-- Box packing helper API with Vue.js UI - parcels packing service for warehouse workers
+  - APIs and services for processing and transfer Orders from external markets to internal systems,
+  - Box packing helper API with Vue.js UI - parcels packing service for warehouse workers
+  - ERP data exchange API facades and converters,
+- Prepare DevOps Pipelines and Azure ARM Templates for build and deployments,
+- Interviews, Onboard for newcomers, Knowledge sharing
 
 ---
 
-#### Dynamica Labs LLP (MS Dynamics CRM integrator)
+#### Dynamica Labs LLP (MS Dynamics CRM integrator), [dynamicalabs.com](https://www.dynamicalabs.com/)
 
-> ##### Full-stack developer & system customizer
+> ##### Full-stack developer and system customizer
 >
 > Sep. 2018 - May 2019
 
 - Plugins adaptation for business requirements,
-- Custom Windows services & console utilities for data management,
+- Custom Windows services and console utilities for data management,
 - Web pages for custom CRUD operations and reports,
 - Working with Vue.js, Rewriting part of existing functionality to Promises/Async way,
-- T-SQL: data updates & analyze
+- T-SQL: data updates and analyze
 
 ---
 
-#### Roshen (Confectionery corporation)
+#### Roshen (Confectionery corporation, largest in Ukraine), [roshen.com](https://www.roshen.com/en/about-roshen)
 
-> ##### Lead developer for HQ sales department planning & reporting system
+> ##### Lead developer for HQ sales department; planning and reporting system
 >
 > Jan. 2018 - Sep. 2018
 
-- Revision for b2b exchange data flow, implementation of new cache layer based on hashes (up to 100x processing time speed up), new data transfer logging part,
-- Rework of internal geodata visualisation tool based on Google Maps (transfer logic layer from dedicated server service into client-side, javascript),
-- Adaptation of the proprietary reporting subsystem to the requirements of business: new data dimensions, overall speed up and new flexible data load tool.
+- Revision for b2b exchange data flow, implementation of new cache layer based on hashes,  up to *100x processing time speed up*,
+- Rework of internal geodata visualisation tool based on Google Maps
+  - Transfer logic layer from dedicated server service into client-side, javascript,
+- Adjustment of the proprietary reporting subsystem to the requirements of business: new data dimensions, overall speed up and new flexible data load tool.
 
 ---
 
-#### MVO (car spare parts, ecommerce)
-
-> ##### Lead developer for b2b solution
->
-> Aug. 2017 - Dec. 2017
-
-- Web-services data exchange (REST, XML/WSDL),
-- Processing new data protocols at accounting system
-
----
-
-#### Roivix.com (business & it consulting)
+#### Roivix.com (business and IT consulting), [roivix.com](http://www.roivix.com/)
 
 > ##### Architect, lead developer for accountant systems
 >
 > Nov.2016 - Aug. 2017
 
-- Worked in a team with financial analysts and business engineers to implement customer requests,
-- Main tools: 1c8 BSL, MS SQL, C#
-
 ---
 
-#### Eroglu holding (clothes retail, Colins™ jeans)
+#### Eroglu holding (clothes retail, Colins™ jeans), [colinsjeans.com](http://colinsjeans.com/)
 
 > ##### Architect, lead developer for Point of Sale system
 >
 > Sep. 2011 - Aug. 2016
 
-- Requirements gathering and analysis,
-- Development of system core, planning all the parts from scratch,
-- Replication system via Web-services: from store sale to office report ~3 minutes delay,
-- Original “reports via mail” system: manager send email with default mail client (from iPhone or so) and after 15 sec. receive answer from mail bot with attached reports. Report preparation is also part of the system,
-- Integration with MS Dynamics AX via dedicated C# service,
+- Requirements gathering, System Design and Implementation of Point-Of-Sale system,
+- Integration of retail hardware to POS: ticket printers, barcode scanners, price checkers,
+- Replication system via Web-services: from store sale to office report with a short delay,
+- “Reports via email” subsystem: auto-repare and send sales reports with given by email body query,
+- Integration with 3rd party systems: accounting, CRM, visitors counting devices
 - Flexible system for calculation of discounts / marketing actions,
-- Working with retail hardware: ticket printers, barcode scanners, price checkers,
+- Integration with MS Dynamics AX via dedicated C# service,
 - Development team management, system growth planning,
-- Integration with other systems: accounting, CRM, visitors counting devices
-- R&D in data analysis and visualisation, system for KPI analysis,
-- Development of small CRM system: discount cards accounting, report system, discount system integration.
 
 ---
 
@@ -153,3 +136,9 @@ Az-900 sertification: Microsoft Azure Fundamentals
 - Adaptation and deployment software in outsource basis, staff training
 - Performance testing, recommendations for improvements
 - Business process analysis, requirements gathering, task management
+
+### Education
+
+Specialist degree at Automated Application Systems department from Sevastopol National Technical University in 2007, Sevastopol, Ukraine.
+
+Az-900 sertification: Microsoft Azure Fundamentals
