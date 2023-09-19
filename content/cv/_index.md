@@ -74,20 +74,20 @@ Let's connect for exciting tech discussions or potential collaborations.
 
 #### Softpositive (IT Services and consulting), [softpositive.com](https://www.softpositive.com/)
 
-> ##### .NET developer
+> ##### .NET / Azure Developer
 >
 > May 2019 - Jun. 2021
 
 - Cloud-based ESB pattern design and implementation,
 - Step-by-step logging design and injection to existing APIs,
 - Prepare Azure pipelines for build and deployments,
-- Box packing helper API with Vue.js UI - parcels packing service for warehouse workers
+- Box packing helper API with Vue.js UI - parcel packing service for warehouse workers
 
 ---
 
 #### Dynamica Labs LLP (MS Dynamics CRM integrator), [dynamicalabs.com](https://www.dynamicalabs.com/)
 
-> ##### Full-stack developer and system customizer
+> ##### .NET / Full-stack Developer
 >
 > Sep. 2018 - May 2019
 
@@ -101,20 +101,20 @@ Let's connect for exciting tech discussions or potential collaborations.
 
 #### Roshen (Confectionery corporation, largest in Ukraine), [roshen.com](https://www.roshen.com/en/about-roshen)
 
-> ##### Lead developer for HQ sales department; planning and reporting system
+> ##### ERP Developer for HQ Sales Department
 >
 > Jan. 2018 - Sep. 2018
 
 - Revision for b2b exchange data flow, implementation of new cache layer based on hashes,  up to *100x processing time speed up*,
-- Rework of internal geodata visualisation tool based on Google Maps
+- Rework of internal geodata visualization tool based on Google Maps
   - Transfer logic layer from dedicated server service into client-side, javascript,
 - Adjustment of the proprietary reporting subsystem to the requirements of business: new data dimensions, overall speed up and new flexible data load tool.
 
 ---
 
-#### Roivix.com (business and IT consulting), [roivix.com](http://www.roivix.com/)
+#### Roivix.com (business and IT consulting), [roivix.com](http://www.roivix.com/ukr/)
 
-> ##### Architect, lead developer for accountant systems
+> ##### Architect, Lead Developer for Accountant Systems
 >
 > Nov.2016 - Aug. 2017
 
@@ -122,16 +122,16 @@ Let's connect for exciting tech discussions or potential collaborations.
 
 #### Eroglu holding (clothes retail, Colins™ jeans), [colinsjeans.com](http://colinsjeans.com/)
 
-> ##### Architect, lead developer for Point of Sale system
+> ##### Architect, Lead Developer for Point-of-Sale System
 >
 > Sep. 2011 - Aug. 2016
 
-- Requirements gathering, System Design and Implementation of Point-Of-Sale system,
+- Requirements gathering, System Design, and Implementation of Point-Of-Sale system,
 - Integration of retail hardware to POS: ticket printers, barcode scanners, price checkers,
-- Replication system via Web-services: from store sale to office report with a short delay,
-- “Reports via email” subsystem: auto-repare and send sales reports with given by email body query,
+- Replication system via Web services: from store sales to office reports with a short delay,
+- “Reports via email” subsystem: auto-repair and send sales reports given by email body query,
 - Integration with 3rd party systems: accounting, CRM, visitors counting devices
-- Flexible system for calculation of discounts / marketing actions,
+- Flexible system for calculation of discounts/marketing actions,
 - Integration with MS Dynamics AX via dedicated C# service,
 - Development team management, system growth planning,
 
@@ -139,7 +139,7 @@ Let's connect for exciting tech discussions or potential collaborations.
 
 #### 1C-Rarus (business automation and consulting)
 
-> ##### Developer, lead of deployment team
+> ##### Developer, Lead of Deployment team
 >
 > Sep. 2007 - Aug. 2011
 
@@ -152,7 +152,7 @@ Let's connect for exciting tech discussions or potential collaborations.
 
 Specialist degree at Automated Application Systems department from Sevastopol National Technical University in 2007, Sevastopol, Ukraine.
 
-### Courses and Certifiates
+### Courses, Projects and Certifiates
 
 |                                                             |                                                              |
 |:------------------------------------------------------------|:------------------------------------------------------------:|
