@@ -143,9 +143,9 @@ Specialist degree at Automated Application Systems department from Sevastopol Na
 
 ### Courses and Certifiates
 
-|                                                    |                                                              |
-|:--------------------------------------------------:|:------------------------------------------------------------:|
-| Az-900 sertification: Microsoft Azure Fundamentals |  ![Azure Fundamentals Badge](azure_fundamentals.png)         |
-| Unity3d, Basic Kitchen Arcade Game, course by CodeMonkey    | [repo](https://github.com/null-null-eins-zwei/KitchenChaos)  |
-| The Creative Javascript Course                     | [repo](https://github.com/krb3d/developedbyed-js-basics)     |
-| The Creative HTML5 & CSS3 Course                   | [repo](https://github.com/krb3d/developedbyed-html-basics)   |
+|                                                             |                                                              |
+|:------------------------------------------------------------|:------------------------------------------------------------:|
+| Microsoft Certified: AZ-900 Azure Fundamentals              | [![Badge](azure_fundamentals-150.png)](https://www.credly.com/badges/4a11fc7f-ea78-4b27-9c80-f6a459e166a2/linked_in_profile)  |
+| The Creative Javascript Course                              | [Code&nbsp;Repository](https://github.com/krb3d/developedbyed-js-basics)     |
+| The Creative HTML5 & CSS3 Course                            | [Code&nbsp;Repository](https://github.com/krb3d/developedbyed-html-basics)   |
+| Unity3d, Basic Kitchen Arcade Game, course by CodeMonkey    | [Code&nbsp;Repository](https://github.com/null-null-eins-zwei/KitchenChaos), [Play&nbsp;Game](https://krb3d.itch.io/kitchenchaos-learn)  |
