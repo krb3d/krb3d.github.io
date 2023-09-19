@@ -1,0 +1,13 @@
+ShowShareButtons: true
+ShowReadingTime: true
+ShowPostNavLinks: true
+ShowBreadCrumbs: true
+ShowCodeCopyButtons: true
+
+socialIcons:
+      - name: github
+        url: "https://github.com/krb3d"
+      - name: linkedin
+        url: "https://www.linkedin.com/in/krb3d/"
+      - name: Rss
+        url: "index.xml"
