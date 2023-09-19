@@ -59,18 +59,29 @@ Let's connect for exciting tech discussions or potential collaborations.
 
 ##### Senior Backend / Azure developer
 
-> May 2019 - Nov. 2023
+> Jun. 2021 - Nov. 2023
 
 - Adjust services Performance and Design for High Load events like Black Friday,
-- Cloud-based ESB pattern design and implementation,
 - Design and Implement multiple internal services and APIs, cloud-based and on-premise deployed,
   - Document Distribution Service - API on top of Azure Storage and CosmosDB with flexible documents upload and query capabilities,
   - Lookup Service - support service for domain models conversion libraries,
   - APIs and services for processing and transfer Orders from external markets to internal systems,
-  - Box packing helper API with Vue.js UI - parcels packing service for warehouse workers
   - ERP data exchange API facades and converters,
 - Prepare DevOps Pipelines and Azure ARM Templates for build and deployments,
 - Interviews, Onboard for newcomers, Knowledge sharing
+
+---
+
+#### Softpositive (IT Services and consulting), [softpositive.com](https://www.softpositive.com/)
+
+> ##### .NET developer
+>
+> May 2019 - Jun. 2021
+
+- Cloud-based ESB pattern design and implementation,
+- Step-by-step logging design and injection to existing APIs,
+- Prepare Azure pipelines for build and deployments,
+- Box packing helper API with Vue.js UI - parcels packing service for warehouse workers
 
 ---
 
