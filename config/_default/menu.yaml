@@ -1,23 +1,36 @@
 main:
 - name: Search
-  url: search/
+  pre: "<i class='fa fa-search'></i>&nbsp;"
+  url: search
+  post: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
   weight: 5
 
-- name: Categories
-  url: categories/
-  weight: 11
-- name: Tags
-  url: tags/
-  weight: 12
+- name: Know-hows
+  pre: "<i class='fa fa-lightbulb-o'></i>&nbsp;"
+  url: know-how
+  post: ""
+  weight: 7
+
+
+# - name: Categories
+#   url: categories
+#   weight: 11
+
+# - name: Tags
+#   url: tags
+#   weight: 12
+
 - name: "CV"
-  url: cv/
+  url: cv
   pre: "&nbsp;<i class='fa fa-id-card-o'></i>&nbsp;"
   post: "&nbsp;"
   weight: 90
 
+
 - name: GitHub
   pre: <i class="fa fa-github"></i>&nbsp;
   url: https://github.com/krb3d/
+
 - name: LinkedIn
   pre: <i class="fa fa-linkedin"></i>&nbsp;
   url: https://www.linkedin.com/in/krb3d/

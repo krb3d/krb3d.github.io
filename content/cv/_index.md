@@ -1,6 +1,7 @@
 ---
 title: CV
-date: 2023-09-08
+label: CV
+date: 2023-09-22
 draft: false
 description: CV of Serhii Speshylov, C# / Azure Senior Developer
 keywords: ["CV", "profile"]
@@ -21,26 +22,26 @@ robotsNoIndex: true
 
 ### Profile summary
 
-I'm an experienced **Software Engineer** with a **strong background** in **Backend technologies**, including **C#/.NET**, Microsoft **Azure Cloud**, and SQL/NoSQL **Databases**. Backed by over **9+ years** in the **IT and services industry**. My academic focus was on Mechatronics, Robotics, and Automation Engineering.
+I'm an experienced **Software&nbsp;Engineer** with a **strong&nbsp;background** in **Backend&nbsp;technologies**, including **C#/.NET**, Microsoft **Azure&nbsp;Cloud**, and SQL/NoSQL **Databases**. Backed by over **9+&nbsp;years** in the **IT&nbsp;and&nbsp;services&nbsp;industry**. My academic&nbsp;focus was on Mechatronics, Robotics, and Automation Engineering.
 
-I specialize in **developing backend applications** (including **design** and **deployment** phases sometimes), with a core emphasis on **integrating software** to solve **critical business challenges**. I believe **well&#8209;designed backend systems** are the foundation _of&nbsp;successful digital ventures_.
+I specialize in **developing backend&nbsp;applications** (including **design**&nbsp;and&nbsp;**deployment** phases sometimes), with a core emphasis on **integrating&nbsp;software** to solve **critical&nbsp;business&nbsp;challenges**. I believe **well&#8209;designed backend&nbsp;systems** are the foundation _of&nbsp;successful digital ventures_.
 
-Beyond work, I'm passionate about **staying current** with **technology trends** and **sharing knowledge** with fellow enthusiasts.
+Beyond work, I'm passionate about **staying&nbsp;current** with **technology&nbsp;trends** and **sharing&nbsp;knowledge** with fellow enthusiasts.
 
 Let's connect for exciting tech discussions or potential collaborations.
 
 ### Education
 
-Sevastopol National Technical University, 2007, Sevastopol, Ukraine
+Sevastopol&nbsp;National&nbsp;Technical&nbsp;University, 2007, Sevastopol, Ukraine
 
 - Specialist&nbsp;degree&nbsp;(5&nbsp;years), Automated Application Systems department
 
 ### My main skills and tech stack
 
-- C#/.NET Core
-- Cloud Design Patterns
-- ASP.NET Core Applications
-- Azure stack, _IaaS and PaaS_:
+- C#/.NET&nbsp;Core
+- Cloud&nbsp;Design&nbsp;Patterns
+- ASP.NET&nbsp;Core Applications
+- Azure&nbsp;stack, _IaaS and PaaS_:
   - Azure Functions
   - Service Bus
   - CosmosBD (NoSQL)
