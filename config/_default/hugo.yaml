@@ -3,6 +3,11 @@ theme: "PaperMod"
 
 paginate: 20
 
+taxonomies:
+  category: categories
+  tag: tags
+  term: term
+
 enableInlineShortcodes: true
 enableRobotsTXT: true
 enableEmoji: true
