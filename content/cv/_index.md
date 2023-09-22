@@ -21,7 +21,7 @@ robotsNoIndex: true
 
 ### Profile summary
 
-I'm an experienced **Software Engineer** with a **strong background** in **Backend technologies**, including **C#/.NET**, Microsoft **Azure Cloud**, and SQL/NoSQL **Databases**. Backed by over **nine years** in the **IT and services industry**. My academic focus was on Mechatronics, Robotics, and Automation Engineering.
+I'm an experienced **Software Engineer** with a **strong background** in **Backend technologies**, including **C#/.NET**, Microsoft **Azure Cloud**, and SQL/NoSQL **Databases**. Backed by over **9+ years** in the **IT and services industry**. My academic focus was on Mechatronics, Robotics, and Automation Engineering.
 
 I specialize in **developing backend applications** (including **design** and **deployment** phases sometimes), with a core emphasis on **integrating software** to solve **critical business challenges**. I believe **well&#8209;designed backend systems** are the foundation _of&nbsp;successful digital ventures_.
 
@@ -29,37 +29,44 @@ Beyond work, I'm passionate about **staying current** with **technology trends**
 
 Let's connect for exciting tech discussions or potential collaborations.
 
+### Education
+
+Sevastopol National Technical University, 2007, Sevastopol, Ukraine
+
+- Specialist&nbsp;degree&nbsp;(5&nbsp;years), Automated Application Systems department
+
 ### My main skills and tech stack
 
-- C#/.NET Core,
-- ASP.NET Core apps,
-- Cloud Design Patterns,
+- C#/.NET Core
+- Cloud Design Patterns
+- ASP.NET Core Applications
 - Azure stack, _IaaS and PaaS_:
-  - Azure Functions,
+  - Azure Functions
   - Service Bus
-  - CosmosBD (NoSQL),
-  - Event Grid,
-  - Azure Storage,
-- SQL: Entity Framework Core, Dapper,
-- Dockerized applications, Microservices
+  - CosmosBD (NoSQL)
+  - Event Grid
+  - Azure Storage
+- Disributed Systems
+- SQL: Entity Framework Core, Dapper
 - Messaging systems, data processing flows
-- Standalone workers,
+- Standalone workers
+- Dockerized applications, Microservices
 - Base DevOps practicies, CI/CD, GitHub Acions / Azure DevOps
 - Basic Javascript, willingness to go deeper (TypeScript / frameworks)
 
 ### Languages
 
-- English - professional working proficiency,
-- Ukrainian - native speaker,
-- German - elementary proficiency,
+- English - professional working proficiency
+- Ukrainian - native speaker
+- German - elementary proficiency
 
 ### Professional experience
 
-#### Berlin Brands Group (Multibrand ecommerce), [berlin-brands-group.com](https://www.berlin-brands-group.com/en)
+#### Senior Backend / Azure Developer
 
-##### Senior Backend / Azure developer
+##### Berlin Brands Group (Multibrand ecommerce), [berlin-brands-group.com](https://www.berlin-brands-group.com/en)
 
-> Jun. 2021 - Nov. 2023
+> Jun. 2021 - Nov. 2023, Germany
 
 - Adjust services Performance and Design for High Load events like Black Friday,
 - Design and Implement multiple internal services and APIs, cloud-based and on-premise deployed,
@@ -72,11 +79,11 @@ Let's connect for exciting tech discussions or potential collaborations.
 
 ---
 
-#### Softpositive (IT Services and consulting), [softpositive.com](https://www.softpositive.com/)
+#### .NET / Azure Developer
 
-> ##### .NET / Azure Developer
->
-> May 2019 - Jun. 2021
+##### Softpositive (IT Services and consulting), [softpositive.com](https://www.softpositive.com/)
+
+> May 2019 - Jun. 2021,  Germany client, remote from Ukraine
 
 - Cloud-based ESB pattern design and implementation,
 - Step-by-step logging design and injection to existing APIs,
@@ -85,11 +92,11 @@ Let's connect for exciting tech discussions or potential collaborations.
 
 ---
 
-#### Dynamica Labs LLP (MS Dynamics CRM integrator), [dynamicalabs.com](https://www.dynamicalabs.com/)
+#### .NET / Full-stack Developer
 
-> ##### .NET / Full-stack Developer
->
-> Sep. 2018 - May 2019
+##### Dynamica Labs LLP (MS Dynamics CRM integrator), [dynamicalabs.com](https://www.dynamicalabs.com/)
+
+> Sep. 2018 - May 2019, United Kingdom, remote from Ukraine
 
 - Plugins adaptation for business requirements,
 - Custom Windows services and console utilities for data management,
@@ -99,58 +106,56 @@ Let's connect for exciting tech discussions or potential collaborations.
 
 ---
 
-#### Roshen (Confectionery corporation, largest in Ukraine), [roshen.com](https://www.roshen.com/en/about-roshen)
+#### ERP Developer for HQ Sales Department
 
-> ##### ERP Developer for HQ Sales Department
->
-> Jan. 2018 - Sep. 2018
+##### Roshen (Confectionery corporation), [roshen.com](https://www.roshen.com/en/about-roshen)
 
-- Revision for b2b exchange data flow, implementation of new cache layer based on hashes,  up to *100x processing time speed up*,
+> Jan. 2018 - Sep. 2018, Ukraine
+
+- Revision for b2b exchange data flow, implementation of new cache layer based on hashes,  up to _100x processing time speed up_,
 - Rework of internal geodata visualization tool based on Google Maps
   - Transfer logic layer from dedicated server service into client-side, javascript,
 - Adjustment of the proprietary reporting subsystem to the requirements of business: new data dimensions, overall speed up and new flexible data load tool.
 
 ---
 
-#### Roivix.com (business and IT consulting), [roivix.com](http://www.roivix.com/ukr/)
+#### Lead ERP Developer
 
-> ##### Architect, Lead Developer for Accountant Systems
->
-> Nov.2016 - Aug. 2017
+##### Roivix.com (business and IT consulting), [roivix.com](http://www.roivix.com/ukr/)
+
+> Nov.2016 - Aug. 2017, Ukraine
+
+Design and implementation of business modules for ERP/Accountant systems for clients like _McDonalds Ukraine_ and _Pepsico Ukraine_
 
 ---
 
-#### Eroglu holding (clothes retail, Colins™ jeans), [colinsjeans.com](http://colinsjeans.com/)
+#### Lead Developer for Point-of-Sale System
 
-> ##### Architect, Lead Developer for Point-of-Sale System
->
-> Sep. 2011 - Aug. 2016
+##### Eroglu holding (clothes retail, Colins™ jeans), [colinsjeans.com](http://colinsjeans.com/)
+
+> Sep. 2011 - Aug. 2016, Ukraine / Turkey
 
 - Requirements gathering, System Design, and Implementation of Point-Of-Sale system,
 - Integration of retail hardware to POS: ticket printers, barcode scanners, price checkers,
-- Replication system via Web services: from store sales to office reports with a short delay,
-- “Reports via email” subsystem: auto-repair and send sales reports given by email body query,
-- Integration with 3rd party systems: accounting, CRM, visitors counting devices
-- Flexible system for calculation of discounts/marketing actions,
+- Development of replication system via Web services: from store sales to office reports with a short delay,
+- Design and implementations of “Reports via email” subsystem: auto-repair and send sales reports given by email body query,
+- Design and implementation of flexible system for calculation of discounts/marketing actions,
 - Integration with MS Dynamics AX via dedicated C# service,
+- Integration with 3rd party systems: accounting, CRM, visitors counting devices
 - Development team management, system growth planning,
 
 ---
 
-#### 1C-Rarus (business automation and consulting)
+#### ERP Developer, Lead of Deployment team
 
-> ##### Developer, Lead of Deployment team
->
+##### 1C-Rarus (business automation and consulting), 1c-rarus.com
+
 > Sep. 2007 - Aug. 2011
 
 - Development of business automation software on 1C:Enterprise framework,
 - Adaptation and deployment software in outsource basis, staff training
 - Performance testing, recommendations for improvements
 - Business process analysis, requirements gathering, task management
-
-### Education
-
-Specialist degree at Automated Application Systems department from Sevastopol National Technical University in 2007, Sevastopol, Ukraine.
 
 ### Courses, Projects and Certifiates
 
