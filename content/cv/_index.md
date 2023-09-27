@@ -58,8 +58,8 @@ Sevastopol&nbsp;National&nbsp;Technical&nbsp;University, 2007, Sevastopol, Ukrai
 ### Languages
 
 - English - professional working proficiency
+- German - A1, attend language courses
 - Ukrainian - native speaker
-- German - elementary proficiency
 
 ### Professional experience
 
