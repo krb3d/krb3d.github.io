@@ -63,9 +63,9 @@ Sevastopol&nbsp;National&nbsp;Technical&nbsp;University, 2007, Sevastopol, Ukrai
 
 ### Professional experience
 
-#### Senior Backend / Azure Developer
+#### Senior Backend Developer, C# / .NET Core / Azure
 
-##### Berlin Brands Group (Multibrand ecommerce), [berlin-brands-group.com](https://www.berlin-brands-group.com/en)
+##### Berlin Brands Group (Multibrand e-commerce), [berlin-brands-group.com](https://www.berlin-brands-group.com/en)
 
 > Jun. 2021 - Nov. 2023, Germany
 
@@ -80,7 +80,7 @@ Sevastopol&nbsp;National&nbsp;Technical&nbsp;University, 2007, Sevastopol, Ukrai
 
 ---
 
-#### .NET / Azure Developer
+#### Backend Developer, C# / .NET Core / Azure
 
 ##### Softpositive (IT Services and consulting), [softpositive.com](https://www.softpositive.com/)
 
@@ -93,7 +93,7 @@ Sevastopol&nbsp;National&nbsp;Technical&nbsp;University, 2007, Sevastopol, Ukrai
 
 ---
 
-#### .NET / Full-stack Developer
+#### Full-stack Developer, C# / .NET Core / Javascript
 
 ##### Dynamica Labs LLP (MS Dynamics CRM integrator), [dynamicalabs.com](https://www.dynamicalabs.com/)
 
