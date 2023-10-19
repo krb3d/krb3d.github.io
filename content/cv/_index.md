@@ -16,7 +16,7 @@ robotsNoIndex: true
 
 ### Contacts
 
-- LinkedIn: [linkedin.com/in/krb3d](https:\linkedin.com/in/krb3d)
+- LinkedIn: [linkedin.com/in/krb3d](https://linkedin.com/in/krb3d)
 - GitHub: [github.com/krb3d](https://github.com/krb3d)
 - Email: [serhii.in.de@gmail.com](mailto:serhii.in.de@gmail.com)
 
