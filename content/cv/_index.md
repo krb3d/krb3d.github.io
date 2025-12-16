@@ -162,7 +162,8 @@ Design and implementation of business modules for ERP/Accountant systems for cli
 
 |                                                             |                                                              |
 |:------------------------------------------------------------|:------------------------------------------------------------:|
-| Microsoft Certified: AZ-900 Azure Fundamentals              | [![Badge](azure_fundamentals-150.png)](https://www.credly.com/badges/4a11fc7f-ea78-4b27-9c80-f6a459e166a2/linked_in_profile)  |
-| The Creative Javascript Course                              | [Code&nbsp;Repository](https://github.com/krb3d/developedbyed-js-basics)     |
+| Microsoft Certified: Azure Fundamentals                     | [![Azure Fundamentals Badge](microsoft-certified-fundamentals-badge.svg)](https://learn.microsoft.com/en-gb/users/krb3d/credentials/c935280142c7214c)  |
+| Microsoft Certified: Azure Developer Associate              | [![Azure Developer Associate Badge](microsoft-certified-associate-badge.svg)](https://learn.microsoft.com/en-gb/users/krb3d/credentials/9704da03c7721ece)  |
+<!-- | The Creative Javascript Course                              | [Code&nbsp;Repository](https://github.com/krb3d/developedbyed-js-basics)     |
 | The Creative HTML5 & CSS3 Course                            | [Code&nbsp;Repository](https://github.com/krb3d/developedbyed-html-basics)   |
-| Unity3d, Basic Kitchen Arcade Game, course by CodeMonkey    | [Code&nbsp;Repository](https://github.com/null-null-eins-zwei/KitchenChaos), [Play&nbsp;Game](https://krb3d.itch.io/kitchenchaos-learn)  |
+| Unity3d, Basic Kitchen Arcade Game, course by CodeMonkey    | [Code&nbsp;Repository](https://github.com/null-null-eins-zwei/KitchenChaos), [Play&nbsp;Game](https://krb3d.itch.io/kitchenchaos-learn)  | -->
