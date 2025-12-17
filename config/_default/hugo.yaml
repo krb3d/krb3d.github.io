@@ -1,7 +1,8 @@
 languageCode: "en-us"
 theme: "PaperMod"
 
-paginate: 20
+pagination:
+  pagerSize: 20
 
 taxonomies:
   category: categories
