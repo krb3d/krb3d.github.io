@@ -13,3 +13,8 @@ assets:
 # label:
 #   text: aa # replace header
 #   icon: favicon-32x32.png
+
+# Social media configuration (replaces deprecated site.Social)
+Social:
+  # twitter: your_twitter_handle
+  # facebook_admin: your_facebook_admin_id
